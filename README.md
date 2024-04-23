@@ -37,5 +37,11 @@
 #### PARKING AREAS
 ![](https://github.com/go-up-now/parking/blob/main/images/areas.png)
 
+#### REPORT ON THE NUMBER OF VEHICLES SUBMITTED
+![](https://github.com/go-up-now/parking/blob/main/images/report-quantity.png)
+
+#### REVENUE REPORT
+![](https://github.com/go-up-now/parking/blob/main/images/revenue%20report.png)
+
 ### © 2024 nghia.anh | go-up-now
 
